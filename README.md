@@ -1,9 +1,9 @@
 # Champaign County Police Use Cases
 
 ## Organization Name
-Champaign County Sheriff’s Office
-Rantoul Police Department
-Urbana Police Department
+### Champaign County Sheriff’s Office
+### Rantoul Police Department
+### Urbana Police Department
  
 ## Local Sponsor
 Sanford Hess, IT Director of Urbana, responsible for the Areawide Records Management Systems (ARMS) 
