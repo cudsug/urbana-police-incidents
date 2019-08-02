@@ -1,8 +1,6 @@
-# Champaign County Police Use Cases
+# Urbana Police Incidents
 
 ## Organization Name
-- Champaign County Sheriff’s Office
-- Rantoul Police Department
 - Urbana Police Department
  
 ## Local Sponsor
